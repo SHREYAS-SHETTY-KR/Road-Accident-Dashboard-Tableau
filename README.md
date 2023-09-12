@@ -1,6 +1,6 @@
 # Road-Accident-Dashboard-Tableau
 
-![dashboard screenshot](https://github.com/Shreyas-028/Road-Accident-Dashboard-Tableau/blob/main/Images/Road%20Accident%20Dashboard.png)
+![dashboard screenshot]()
 
 
 ## Project Overview
